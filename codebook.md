@@ -17,20 +17,20 @@ The mean value and the standard deviation of a set of variables are included in 
 the variables are described in the list below:
 
 * Body Acceleration
-	..* Short Name: BodyAcc
-	..* Description: Body Acceleration Signal.
+	⋅⋅* Short Name: BodyAcc
+	⋅⋅* Description: Body Acceleration Signal.
 * Gravity Acceleration
-	..* Short Name: GravityAcc
-	..* Description: Gravity Acceleration Signal.
+	⋅⋅* Short Name: GravityAcc
+	⋅⋅* Description: Gravity Acceleration Signal.
 * Body Jerk
-	..* Short Name: BodyAccJerk
-	..* Description: First derivative of the Body Acceleration with respect to time.
+	⋅⋅* Short Name: BodyAccJerk
+	⋅⋅* Description: First derivative of the Body Acceleration with respect to time.
 * Body Angular Velocity
-	..* Short Name: BodyGyro
-	..* Description: Angular Velocity Signal.
+	⋅⋅* Short Name: BodyGyro
+	⋅⋅* Description: Angular Velocity Signal.
 * Body Angular Velocity Jerk
-	..* Short Name: BodyGyroJerk
-	..* Description: First derivative of the Body Angular Velocity with respect to time.
+	⋅⋅* Short Name: BodyGyroJerk
+	⋅⋅* Description: First derivative of the Body Angular Velocity with respect to time.
 
 For each variable the time domain value and the frequency domain are given,
 
