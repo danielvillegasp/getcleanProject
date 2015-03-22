@@ -1,9 +1,11 @@
 #Codebook
+
 ## Subject ID
 * Variable: Subject
 * Description: Number that identifies the Subject performing the experiment.
 * Range: 1-30
 * Type: Positve Integer
+
 ## Activity Name
 * Variable: Activity
 * Description: Name of the activity performed by the subject during the experiment.
@@ -41,6 +43,7 @@ Magnitude Variables are derived from the X, Y and Z signals and are marked with 
 An example of a variable is 'tBodyAccMeanX', this means the Mean Value of the Body Acceleration along the X-Axis.
 
 Below all of the variables are listed:
+
 * tBodyAccMeanX
 * tBodyAccMeanY
 * tBodyAccMeanZ
