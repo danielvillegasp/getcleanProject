@@ -1,34 +1,34 @@
 #Codebook
 ## Subject ID
-..Variable: Subject
-..Description: Number that identifies the Subject performing the experiment.
-..Range: 1-30
-..Type: Positve Integer
+*Variable: Subject
+*Description: Number that identifies the Subject performing the experiment.
+*Range: 1-30
+*Type: Positve Integer
 ## Activity Name
-..Variable: Activity
-..Description: Name of the activity performed by the subject during the experiment.
-..Range: WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS, SITTING, STANDING, LAYING
-..Type: String/Factor
+*Variable: Activity
+*Description: Name of the activity performed by the subject during the experiment.
+*Range: WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS, SITTING, STANDING, LAYING
+*Type: String/Factor
 
 ## Measurements
 The mean value and the standard deviation of a set of variables are included in the dataset,
 the variables are described in the list below:
 
-..* Body Acceleration
-	...*Short Name: BodyAcc
-	...*Description: Body Acceleration Signal.
-..* Gravity Acceleration
-	...*Short Name: GravityAcc
-	...*Description: Gravity Acceleration Signal.
-..* Body Jerk
-	...*Short Name: BodyAccJerk
-	...*Description: First derivative of the Body Acceleration with respect to time.
-..* Body Angular Velocity
-	...*Short Name: BodyGyro
-	...*Description: Angular Velocity Signal.
-..* Body Angular Velocity Jerk
-	...*Short Name: BodyGyroJerk
-	...*Description: First derivative of the Body Angular Velocity with respect to time.
+* Body Acceleration
+	..*Short Name: BodyAcc
+	..*Description: Body Acceleration Signal.
+* Gravity Acceleration
+	..*Short Name: GravityAcc
+	..*Description: Gravity Acceleration Signal.
+* Body Jerk
+	..*Short Name: BodyAccJerk
+	..*Description: First derivative of the Body Acceleration with respect to time.
+* Body Angular Velocity
+	..*Short Name: BodyGyro
+	..*Description: Angular Velocity Signal.
+* Body Angular Velocity Jerk
+	..*Short Name: BodyGyroJerk
+	..*Description: First derivative of the Body Angular Velocity with respect to time.
 
 For each variable the time domain value and the frequency domain are given,
 
