@@ -107,7 +107,3 @@ Below all of the variables are listed:
 * fBodyBodyGyroMagStd
 * fBodyBodyGyroJerkMagMean
 * fBodyBodyGyroJerkMagStd
-..*fBodyBodyGyroMagMean
-..*fBodyBodyGyroMagStd
-..*fBodyBodyGyroJerkMagMean
-..*fBodyBodyGyroJerkMagStd
