@@ -7,5 +7,3 @@ creates a file in the same folder as the script 'run_analysis.R' with the result
 
 The working directory is set automatically to the directory containing run_analysis.R. Keep in mind that if the data is stored in a 
 directory different than './Data/UCI HAR Dataset/' you would have to change this path in the variable data.dir.
-
-The raw data is not commited to github.
