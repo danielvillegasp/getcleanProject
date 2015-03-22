@@ -1,14 +1,14 @@
 #Codebook
 ## Subject ID
-..*Variable: Subject
-..*Description: Number that identifies the Subject performing the experiment.
-..*Range: 1-30
-..*Type: Positve Integer
+..Variable: Subject
+..Description: Number that identifies the Subject performing the experiment.
+..Range: 1-30
+..Type: Positve Integer
 ## Activity Name
-..*Variable: Activity
-..*Description: Name of the activity performed by the subject during the experiment.
-..*Range: WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS, SITTING, STANDING, LAYING
-..*Type: String/Factor
+..Variable: Activity
+..Description: Name of the activity performed by the subject during the experiment.
+..Range: WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS, SITTING, STANDING, LAYING
+..Type: String/Factor
 
 ## Measurements
 The mean value and the standard deviation of a set of variables are included in the dataset,
